@@ -31,12 +31,12 @@
             this.menuStrip1 = new System.Windows.Forms.MenuStrip();
             this.abrirToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.catálogoToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.registroDeAlumnoToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.registroDeMaestroToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.prosesosToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.informaciónToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.herramientasToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.ayudaToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.registroDeAlumnoToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.registroDeMaestroToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.menuStrip1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -70,6 +70,20 @@
             this.catálogoToolStripMenuItem.Size = new System.Drawing.Size(67, 20);
             this.catálogoToolStripMenuItem.Text = "Catálogo";
             // 
+            // registroDeAlumnoToolStripMenuItem
+            // 
+            this.registroDeAlumnoToolStripMenuItem.Name = "registroDeAlumnoToolStripMenuItem";
+            this.registroDeAlumnoToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.registroDeAlumnoToolStripMenuItem.Text = "Registro de Alumno";
+            this.registroDeAlumnoToolStripMenuItem.Click += new System.EventHandler(this.registroDeAlumnoToolStripMenuItem_Click);
+            // 
+            // registroDeMaestroToolStripMenuItem
+            // 
+            this.registroDeMaestroToolStripMenuItem.Name = "registroDeMaestroToolStripMenuItem";
+            this.registroDeMaestroToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.registroDeMaestroToolStripMenuItem.Text = "Registro de Maestro";
+            this.registroDeMaestroToolStripMenuItem.Click += new System.EventHandler(this.registroDeMaestroToolStripMenuItem_Click);
+            // 
             // prosesosToolStripMenuItem
             // 
             this.prosesosToolStripMenuItem.Name = "prosesosToolStripMenuItem";
@@ -93,18 +107,6 @@
             this.ayudaToolStripMenuItem.Name = "ayudaToolStripMenuItem";
             this.ayudaToolStripMenuItem.Size = new System.Drawing.Size(53, 20);
             this.ayudaToolStripMenuItem.Text = "Ayuda";
-            // 
-            // registroDeAlumnoToolStripMenuItem
-            // 
-            this.registroDeAlumnoToolStripMenuItem.Name = "registroDeAlumnoToolStripMenuItem";
-            this.registroDeAlumnoToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
-            this.registroDeAlumnoToolStripMenuItem.Text = "Registro de Alumno";
-            // 
-            // registroDeMaestroToolStripMenuItem
-            // 
-            this.registroDeMaestroToolStripMenuItem.Name = "registroDeMaestroToolStripMenuItem";
-            this.registroDeMaestroToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
-            this.registroDeMaestroToolStripMenuItem.Text = "Registro de Maestro";
             // 
             // FrmContenedorMDI
             // 
