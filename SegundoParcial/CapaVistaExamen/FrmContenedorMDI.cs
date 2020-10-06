@@ -16,5 +16,17 @@ namespace CapaVistaExamen
         {
             InitializeComponent();
         }
+
+        private void registroDeAlumnoToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            FrmMantenientoAlumno alumno = new FrmMantenientoAlumno();
+            alumno.Show();
+        }
+
+        private void registroDeMaestroToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            FrmMantenimientoMaestro maestro = new FrmMantenimientoMaestro();
+            maestro.Show();
+        }
     }
 }

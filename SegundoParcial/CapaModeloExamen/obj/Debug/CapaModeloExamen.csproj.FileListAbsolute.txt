@@ -3,3 +3,4 @@ C:\Users\CARLOS JAVIER\source\repos\SegundoParcial\CapaModeloExamen\bin\Debug\Ca
 C:\Users\CARLOS JAVIER\source\repos\SegundoParcial\CapaModeloExamen\obj\Debug\CapaModeloExamen.csproj.CoreCompileInputs.cache
 C:\Users\CARLOS JAVIER\source\repos\SegundoParcial\CapaModeloExamen\obj\Debug\CapaModeloExamen.dll
 C:\Users\CARLOS JAVIER\source\repos\SegundoParcial\CapaModeloExamen\obj\Debug\CapaModeloExamen.pdb
+C:\Users\CARLOS JAVIER\source\repos\SegundoParcial\CapaModeloExamen\obj\Debug\CapaModeloExamen.csprojAssemblyReference.cache

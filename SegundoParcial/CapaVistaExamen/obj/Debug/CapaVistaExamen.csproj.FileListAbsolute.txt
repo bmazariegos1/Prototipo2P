@@ -9,3 +9,8 @@ C:\Users\CARLOS JAVIER\source\repos\SegundoParcial\CapaVistaExamen\bin\Debug\Cap
 C:\Users\CARLOS JAVIER\source\repos\SegundoParcial\CapaVistaExamen\obj\Debug\CapaVistaExamen.FrmContenedorMDI.resources
 C:\Users\CARLOS JAVIER\source\repos\SegundoParcial\CapaVistaExamen\obj\Debug\CapaVistaExamen.csproj.GenerateResource.cache
 C:\Users\CARLOS JAVIER\source\repos\SegundoParcial\CapaVistaExamen\obj\Debug\CapaVistaExamen.csproj.CopyComplete
+C:\Users\CARLOS JAVIER\source\repos\SegundoParcial\CapaVistaExamen\obj\Debug\CapaVistaExamen.FrmConsulta.resources
+C:\Users\CARLOS JAVIER\source\repos\SegundoParcial\CapaVistaExamen\obj\Debug\CapaVistaExamen.FrmMantenientoAlumno.resources
+C:\Users\CARLOS JAVIER\source\repos\SegundoParcial\CapaVistaExamen\obj\Debug\CapaVistaExamen.FrmMantenimientoMaestro.resources
+C:\Users\CARLOS JAVIER\source\repos\SegundoParcial\CapaVistaExamen\bin\Debug\CapaModeloExamen.dll
+C:\Users\CARLOS JAVIER\source\repos\SegundoParcial\CapaVistaExamen\bin\Debug\CapaModeloExamen.pdb

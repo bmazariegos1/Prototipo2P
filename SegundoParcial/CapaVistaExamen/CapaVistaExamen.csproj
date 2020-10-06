@@ -46,17 +46,44 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="FrmConsulta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmConsulta.Designer.cs">
+      <DependentUpon>FrmConsulta.cs</DependentUpon>
+    </Compile>
     <Compile Include="FrmContenedorMDI.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="FrmContenedorMDI.Designer.cs">
       <DependentUpon>FrmContenedorMDI.cs</DependentUpon>
     </Compile>
+    <Compile Include="FrmMantenientoAlumno.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmMantenientoAlumno.Designer.cs">
+      <DependentUpon>FrmMantenientoAlumno.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmMantenimientoMaestro.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmMantenimientoMaestro.Designer.cs">
+      <DependentUpon>FrmMantenimientoMaestro.cs</DependentUpon>
+    </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
+    <EmbeddedResource Include="FrmConsulta.resx">
+      <DependentUpon>FrmConsulta.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="FrmContenedorMDI.resx">
       <DependentUpon>FrmContenedorMDI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmMantenientoAlumno.resx">
+      <DependentUpon>FrmMantenientoAlumno.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmMantenimientoMaestro.resx">
+      <DependentUpon>FrmMantenimientoMaestro.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
